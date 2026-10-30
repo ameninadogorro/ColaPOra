@@ -1,9 +1,12 @@
 <div align="center">
   
-  # 🍃 ColaPÓra
-  **Inteligência Ambiental Cidadã**
+# 🍃 ColaPÓra - Inteligência Ambiental Cidadã
 
-  > *"Transformando a comunidade no maior sensor ambiental do mundo para combater emissões fugitivas."*
+![Capa ColaPÓra](imagem1.png)
+
+> *"Quem avista, ColaPÓra."* 
+>
+> Transformando a comunidade no maior sensor ambiental do mundo para combater emissões fugitivas.
   
   <br>
 
